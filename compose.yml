@@ -1,0 +1,4 @@
+services:
+  libtelnet:
+    build: .
+    network_mode: host
